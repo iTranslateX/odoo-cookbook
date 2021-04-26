@@ -1,8 +1,6 @@
 # Odoo 14开发者指南(第四版)
 
-> TODO: 替换CDN 图片地址为公共图床
->
-> Odoo 12开发者指南请点击[这里](../tree/v12)
+> Odoo 12开发者指南请点击[这里](https://github.com/iTranslateX/odoo-cookbook/tree/v12)
 
 Odoo 14开发者指南（Cookbook）第四版，是一套提供了种类开发场景的完整资源，帮助读者通过Odoo框架构建复杂商业应用。不论你是希望自定义已有模块、新建模块，还是自定义网站或后台web客户端(JS)，本书都讲解到了Odoo开发的方方面面。
 
